@@ -1,0 +1,26 @@
+div {
+    width: 550px;
+    height: 550px;
+    border: 1px solid red;
+    background-image: url("../puppies.jpg");
+    background-size: ;
+    background-repeat: no-repeat;
+}
+
+
+.onedog {
+    border: 50px dashed coral;
+
+ }
+.dogtwo {
+    border: 50px dotted coral;
+    border-radius: 50%;
+
+}
+.dogthree {
+    border: 50px solid coral;
+}
+.dogfour {
+    border: 20px groove coral;
+    border-radius: 50%;
+}

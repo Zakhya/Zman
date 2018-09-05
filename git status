@@ -1,0 +1,29 @@
+[33mcommit 34c7c301a021614c17c073d557468a8bc447ed4e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Zakhya <42898990+Zakhya@users.noreply.github.com>
+Date:   Tue Sep 4 14:44:58 2018 -0700
+
+    fixes essential_tags folder
+
+[33mcommit 3413844322c09289b773ea79c1d93b8cfbfe5a65[m
+Author: Zakhya <42898990+Zakhya@users.noreply.github.com>
+Date:   Tue Sep 4 14:40:35 2018 -0700
+
+    added 01_essential_tags
+
+[33mcommit 64a2cbb2385e40cf389197546a14b7267880b80d[m
+Author: Zakhya <42898990+Zakhya@users.noreply.github.com>
+Date:   Tue Sep 4 11:00:55 2018 -0700
+
+    deleted webdog file
+
+[33mcommit 7449ea21764e01867ca958106c26fed7095dd86b[m
+Author: Zakhya <42898990+Zakhya@users.noreply.github.com>
+Date:   Sun Sep 2 12:50:49 2018 -0700
+
+    added .gitignore to html-css-bootcamp
+
+[33mcommit 1807f21a986cf887666d5b50f40cb769e0b8ef50[m
+Author: Zakhya <42898990+Zakhya@users.noreply.github.com>
+Date:   Sun Sep 2 12:45:38 2018 -0700
+
+    adds .gitignore file
